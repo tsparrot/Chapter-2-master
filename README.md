@@ -16,22 +16,22 @@ https://app.zeplin.io/project/5c402caf0c6b0938570c4953/screen/5c402eaf5838d5bff1
 
 ### Exercise 1
 
-![旋转前](.\pic\Screenshot_20200419_183435_chapter.android.aweme..jpg)
+![旋转前](https://github.com/tsparrot/Chapter-2-master/blob/master/pic/Screenshot_20200419_183435_chapter.android.aweme..jpg)
 
-![旋转后](.\pic\Screenshot_20200419_183457_chapter.android.aweme..jpg)
+![旋转后](https://github.com/tsparrot/Chapter-2-master/blob/master/pic/Screenshot_20200419_183457_chapter.android.aweme..jpg)
 
-![恢复后](.\pic\Screenshot_20200419_183512_chapter.android.aweme..jpg)
+![恢复后](https://github.com/tsparrot/Chapter-2-master/blob/master/pic/Screenshot_20200419_183512_chapter.android.aweme..jpg)
 
 ### Exercise 2
 
-![恢复后](.\pic\Screenshot_20200419_183610_chapter.android.aweme..jpg)
+![恢复后](https://github.com/tsparrot/Chapter-2-master/blob/master/pic/Screenshot_20200419_183610_chapter.android.aweme..jpg)
 
 ### Exercise 3
 
 `ScrollView`布局中似乎只能添加一个元素，由于想实现较为真实的聊天界面效果，故将内层的`ScrollView`替换为`RecyclerView`，配合以.9图为`TextView`背景的子项来实现。
 
-![恢复后](.\pic\Screenshot_20200419_183645_chapter.android.aweme..jpg)
+![恢复后](https://github.com/tsparrot/Chapter-2-master/blob/master/pic/Screenshot_20200419_183645_chapter.android.aweme..jpg)
 
-![恢复后](.\pic\Screenshot_20200419_183706_chapter.android.aweme..jpg)
+![恢复后](https://github.com/tsparrot/Chapter-2-master/blob/master/pic/Screenshot_20200419_183706_chapter.android.aweme..jpg)
 
-![恢复后](.\pic\Screenshot_20200419_183759_chapter.android.aweme..jpg)
+![恢复后](https://github.com/tsparrot/Chapter-2-master/blob/master/pic/Screenshot_20200419_183759_chapter.android.aweme..jpg)
